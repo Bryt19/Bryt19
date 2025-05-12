@@ -2,9 +2,12 @@
 <h3 align="center">Web Developer | Frontend Engineer | Clean UI + Solid Code</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=I+build+clean,+responsive+websites.;Frontend+Developer+-+HTML,+CSS,+JavaScript;Let's+build+something+great+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=I+build+clean,+responsive+websites.;Web+Development+%7C+HTML,+CSS,+JavaScript.;Let's+build+something+great+together!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47qloypjvyezv9eyy7m4l7b7xc3huo76zb84pvk84t&ep=v1_gifs_search&rid=giphy.gif&ct=gif" alt="Web Developer Animated Image" />
+</p>
 
 ---
 
