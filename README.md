@@ -157,7 +157,7 @@ I'm always excited to work on new projects, share knowledge, and connect with fe
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/bright-akoto19)](https://www.linkedin.com/in/bright-akoto19)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Bryt19)](https://github.com/Bryt19)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:ac.bryt19@gmail.com)](mailto:ac.bryt19@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=portfolio&logoColor=white&link=https://brightakoto.dev)](https://brightakoto.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=portfolio&logoColor=white&link=https://brightakoto.dev)](https://bryt19.github.io/Portfolio-Website/)
 
 ### 💼 Available For
 
