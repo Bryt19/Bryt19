@@ -46,9 +46,13 @@ I'm **Bright Akoto**, a passionate and dedicated web developer from Ghana 🇬�
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
 
 ### 🛠️ Development Tools
 
@@ -57,6 +61,8 @@ I'm **Bright Akoto**, a passionate and dedicated web developer from Ghana 🇬�
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/-Chrome_DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
 
 ### 📊 Skills Proficiency
 
@@ -73,6 +79,12 @@ I'm **Bright Akoto**, a passionate and dedicated web developer from Ghana 🇬�
 ## 🚀 Featured Projects
 
 Here are some of my standout projects that demonstrate my technical skills and problem-solving abilities:
+
+### 🏆 [TradeLens](https://trade-lens-finance.vercel.app/)
+
+> **Technologies**: React.js, TypeScript, Vite, Tailwind CSS, Supabase  
+> **Features**: Trade data management, secure authentication, responsive UI, fast build system with Vite  
+> **Impact**: Provided an efficient platform for managing trade-related data, improving accessibility and decision-making
 
 ### 🏆 [Leapbod](https://leapbod.vercel.app/)
 
