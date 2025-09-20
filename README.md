@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | Frontend Engineer | Clean UI + Solid Code</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=I+build+clean,+responsive+websites.;Web+Development+%7C+HTML,+CSS,+JavaScript.;Let's+build+something+great+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=I+build+clean,+responsive+websites.;HTML+%7C+CSS+%7C+JavaScript.;TypeScript+%7C+React+%7C+TailwindCSS.;Vite+%7C+Supabase.;Let's+build+something+great+together!" alt="Typing SVG" />
 </p>
 
 <p align="center">
