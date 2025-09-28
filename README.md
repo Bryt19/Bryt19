@@ -104,18 +104,6 @@ Here are some of my standout projects that demonstrate my technical skills and p
 > **Features**: Add, edit, delete tasks, data persistence, clean interface  
 > **Impact**: Efficient task management solution with intuitive user interface
 
-### 🏆 [Hotel Booking Platform](https://bryt19.github.io/Hotel-Transylvania/)
-
-> **Technologies**: HTML5, CSS3, JavaScript, Form Validation  
-> **Features**: Real-time validation, responsive design, booking forms  
-> **Impact**: Professional hotel booking experience with robust form handling
-
-### 🏆 [Weather Dashboard](https://bryt19.github.io/Weather/)
-
-> **Technologies**: JavaScript, OpenWeatherMap API, Geolocation API  
-> **Features**: Live weather data, location-based updates, responsive design  
-> **Impact**: Real-time weather information with accurate location detection
-
 ### 🔗 [View All Projects](https://github.com/Bryt19?tab=repositories)
 
 > Explore my complete portfolio of web applications, UI components, and JavaScript solutions
