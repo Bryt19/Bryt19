@@ -98,12 +98,6 @@ Here are some of my standout projects that demonstrate my technical skills and p
 > **Features**: Modern UI/UX, booking system, mobile-first design  
 > **Impact**: Fully responsive landing page with seamless user experience across all devices
 
-### 🏆 [Task Management App](https://bryt19.github.io/To-Do-List/)
-
-> **Technologies**: Vanilla JavaScript, Local Storage, DOM Manipulation  
-> **Features**: Add, edit, delete tasks, data persistence, clean interface  
-> **Impact**: Efficient task management solution with intuitive user interface
-
 ### 🔗 [View All Projects](https://github.com/Bryt19?tab=repositories)
 
 > Explore my complete portfolio of web applications, UI components, and JavaScript solutions
