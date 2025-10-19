@@ -13,7 +13,7 @@
 
 ## 🔥 About Me
 
-I'm **Bright Akoto**, a passionate and dedicated web developer from Ghana 🇬🇭 with a strong foundation in modern web technologies. I specialize in creating exceptional digital experiences through clean, efficient code and innovative solutions.
+I'm **Bright Akoto**, a passionate and dedicated web developer from Ghana with a strong foundation in modern web technologies. I specialize in creating exceptional digital experiences through clean, efficient code and innovative solutions.
 
 ### 🎯 Professional Summary
 
