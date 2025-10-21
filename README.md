@@ -110,7 +110,6 @@ Here are some of my standout projects that demonstrate my technical skills and p
 
 - **Google Developer Certification** - Web Development Fundamentals
 - **FreeCodeCamp** - Responsive Web Design Certification
-- **HackerRank** - JavaScript (Advanced) Certification
 - **GitHub** - Active Contributor with 500+ commits
 
 ### 📈 GitHub Analytics
