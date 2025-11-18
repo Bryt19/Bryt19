@@ -34,7 +34,7 @@ I'm **Bright Akoto**, a passionate and dedicated web developer from Ghana with a
 ### 📬 Contact
 
 **Email**: [ac.bryt19@gmail.com](mailto:ac.bryt19@gmail.com)  
-**Location**: Ghana 🇬🇭  
+**Location**: Ghana
 **Available for**: Freelance projects, Full-time opportunities, Collaborations
 
 ---
