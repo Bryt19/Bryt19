@@ -1,184 +1,163 @@
-<h1 align="center">Hi 👋🏾, I'm Bright Akoto</h1>
-<h3 align="center">Web Developer | Frontend Engineer | Clean UI + Solid Code</h3>
+<div align="center">
+  <h1>Bright Akoto</h1>
+  <p><strong>Junior Frontend Engineer | UI/UX Architect | Scalable Web Solutions</strong></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=I+build+clean,+responsive+websites.;HTML5+%7C+CSS3+%7C+JavaScript.;TypeScript+%7C+React+%7C+TailwindCSS.;Vite+%7C+Supabase.;Let's+build+something+great+together!" alt="Typing SVG" />
-</p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Engineering+High-Performance+Web+Apps;Specializing+in+React+%26+TypeScript;Architecting+Clean+and+Scalable+UIs;Bridging+Design+and+Functionality" alt="Typing SVG" />
+  </p>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated Professional Developer" />
-</p>
+  <div>
+    <a href="https://linkedin.com/in/bright-akoto19">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ac.bryt19@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://dhollarsign.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    </a>
+  </div>
+</div>
 
----
+<br />
 
-## 🔥 About Me
+## 🚀 Professional Profile
 
-I'm **Bright Akoto**, a passionate and dedicated web developer from Ghana with a strong foundation in modern web technologies. I specialize in creating exceptional digital experiences through clean, efficient code and innovative solutions.
+I am a results-oriented **Frontend Engineer** based in Ghana, specializing in building high-performance, accessible, and visually stunning web applications. With over **3 years of professional experience**, I focus on delivering scalable frontend architectures that drive business value and enhance user engagement.
 
-### 🎯 Professional Summary
+### 💎 Key Expertise
 
-- **3+ years** of experience in web development and frontend engineering
-- **Expertise** in responsive design, performance optimization, and user experience
-- **Proven track record** of delivering high-quality projects on time and within budget
-- **Strong problem-solving skills** with a focus on scalable and maintainable code
-- **Continuous learner** staying updated with the latest web technologies and best practices
-
-### 💼 Core Competencies
-
-- 💻 **Frontend Development**: HTML5, CSS3, JavaScript (ES6+), React.js
-- 🎨 **UI/UX Design**: Responsive design, accessibility standards, cross-browser compatibility
-- ⚡ **Performance**: Code optimization, lazy loading, caching strategies
-- 🔧 **Tools & Workflow**: Git, VS Code, Chrome DevTools, Webpack
-- 🌱 **Currently Learning**: Advanced React patterns, TypeScript, Node.js
-
-### 📬 Contact
-
-**Email**: [ac.bryt19@gmail.com](mailto:ac.bryt19@gmail.com)  
-**Location**: Ghana
-**Available for**: Freelance projects, Full-time opportunities, Collaborations
+- **Scalable Architecture**: Designing modular, maintainable React/TypeScript codebases.
+- **Performance Optimization**: Achieving 90+ Lighthouse scores through advanced caching and code-splitting.
+- **UI/UX Excellence**: Translating complex design systems into pixel-perfect, responsive interfaces.
+- **Full-Stack Integration**: Seamlessly connecting frontend clients with Supabase, Node.js, and REST/GraphQL APIs.
 
 ---
 
-## 🧰 Technical Skills
+## 💡 Soft Skills & Methodologies
 
-### 🎨 Frontend Technologies
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-
-### 🛠️ Development Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/-Chrome_DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-
-### 📊 Skills Proficiency
-
-- **HTML5/CSS3**: ⭐⭐⭐⭐⭐ (Expert)
-- **JavaScript (ES6+)**: ⭐⭐⭐⭐ (Advanced)
-- **React.js**: ⭐⭐⭐ (Intermediate)
-- **Responsive Design**: ⭐⭐⭐⭐⭐ (Expert)
-- **Git/GitHub**: ⭐⭐⭐⭐ (Advanced)
-- **UI/UX Design**: ⭐⭐⭐⭐ (Advanced)
-- **Performance Optimization**: ⭐⭐⭐⭐ (Advanced)
+- **Agile/Scrum**: Experienced in iterative development and sprint-based delivery.
+- **System Thinking**: Capable of understanding complex architectures and their interdependencies.
+- **Technical Mentorship**: Committed to sharing knowledge and fostering team growth.
+- **Problem Solving**: Analytical approach to debugging and architectural challenges.
+- **Global Collaboration**: Proficient in working with remote, cross-functional teams.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Ecosystem
 
-Here are some of my standout projects that demonstrate my technical skills and problem-solving abilities:
+### 💻 Frontend & Styling
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-### 🏆 [TradeLens](https://trade-lens-finance.vercel.app/)
+### 🧠 State & Logic
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
-> **Technologies**: React.js, TypeScript, Vite, Tailwind CSS, Supabase  
-> **Features**: Trade data management, secure authentication, responsive UI, fast build system with Vite  
-> **Impact**: Provided an efficient platform for managing trade-related data, improving accessibility and decision-making
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### 🏆 [Leapbod](https://leapbod.vercel.app/)
-
-> **Technologies**: React.js, TypeScript, Node.js, Express, Supabase, PostgreSQL   
-> **Features**: Real-time collaboration, user authentication, scalable architecture, responsive design  
-> **Impact**: Empowered users to collaborate seamlessly on projects, resulting in increased productivity and engagement
-
-### 🏆 [Car Rental Website](https://bryt19.github.io/Zoom-Rides/)
-
-> **Technologies**: HTML5, CSS3, JavaScript, Responsive Design  
-> **Features**: Modern UI/UX, booking system, mobile-first design  
-> **Impact**: Fully responsive landing page with seamless user experience across all devices
-
-### 🔗 [View All Projects](https://github.com/Bryt19?tab=repositories)
-
-> Explore my complete portfolio of web applications, UI components, and JavaScript solutions
-
----
-
-## 📊 Professional Achievements
-
-### 🏅 Certifications & Recognition
-
-- **Google Developer Certification** - Web Development Fundamentals
-- **FreeCodeCamp** - Responsive Web Design Certification
-- **GitHub** - Active Contributor with 500+ commits
-
-### 📈 GitHub Analytics
-
-> ⚙️ **Development Activity & Code Quality Metrics**
-
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bryt19&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryt19&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryt19&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="Commits" src="https://img.shields.io/badge/Commits-500%2B-blueviolet?style=flat&logo=github" />
-  <img alt="Code Quality" src="https://img.shields.io/badge/Code-Professional%20Grade-green?style=flat-square&logo=javascript" />
-  <img alt="Projects" src="https://img.shields.io/badge/Projects-15%2B%20Completed-informational?style=flat&logo=github" />
-  <img alt="Languages" src="https://img.shields.io/badge/Languages-5%2B%20Proficient-orange?style=flat&logo=typescript" />
-</p>
-
-### 🎯 Key Metrics
-
-- **Code Quality**: 95%+ clean, readable, and well-documented code
-- **Project Delivery**: 100% on-time delivery rate
-- **Client Satisfaction**: 5-star average rating
-- **Performance**: All projects score 90+ on Lighthouse audits
-
-> 💡 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
-
-## 📫 Professional Contact
-
-### 🤝 Let's Connect & Collaborate
-
-I'm always excited to work on new projects, share knowledge, and connect with fellow developers!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/bright-akoto19)](https://www.linkedin.com/in/bright-akoto19)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Bryt19)](https://github.com/Bryt19)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:ac.bryt19@gmail.com)](mailto:ac.bryt19@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=portfolio&logoColor=white&link=https://brightakoto.dev)](https://bryt19.github.io/Portfolio-Website/)
-
-### 💼 Available For
-
-- **Freelance Projects** - Web development, UI/UX design, consulting
-- **Full-time Opportunities** - Frontend developer, React developer positions
-- **Collaborations** - Open source projects, hackathons, tech communities
-- **Mentoring** - Code reviews, technical guidance, career advice
-
-### 🌟 What I Bring to the Table
-
-- **Technical Excellence**: Clean, efficient, and scalable code
-- **Problem-Solving**: Creative solutions to complex challenges
-- **Communication**: Clear documentation and effective team collaboration
-- **Continuous Learning**: Staying updated with latest technologies and best practices
-- **Reliability**: Consistent delivery and professional work ethic
+### 🧪 Testing & Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 🎯 Current Focus & Goals
+## 🏆 Featured Implementations
 
-- 🔥 **Mastering React Ecosystem** - Advanced patterns, hooks, and state management
-- 🚀 **Learning TypeScript** - Type-safe development and better code quality
-- 💡 **Exploring Backend Technologies** - Node.js, Express, and database integration
-- 🌐 **Contributing to Open Source** - Giving back to the developer community
-- 📚 **Technical Writing** - Sharing knowledge through blogs and tutorials
+### 📊 [TradeLens](https://trade-lens-finance.vercel.app/)
+*Financial Data Management Platform*
+- **Stack**: React, TypeScript, Tailwind, Supabase.
+- **Key Outcome**: Implemented a real-time data visualization dashboard with secure multi-tenant authentication.
+
+### 🤝 [Leapbod](https://leapbod.vercel.app/)
+*Collaborative Workflow Engine*
+- **Stack**: Next.js, PostgreSQL, Supabase, Framer Motion.
+- **Key Outcome**: Engineered a seamless real-time collaboration environment with optimized state management.
+
+### 🚗 [Zoom Rides](https://bryt19.github.io/Zoom-Rides/)
+*Modern Vehicle Rental Ecosystem*
+- **Stack**: HTML5, SCSS, JavaScript (ES6+).
+- **Key Outcome**: Delivered a mobile-first, high-conversion landing page with custom interactive components.
 
 ---
 
-> _"The best way to predict the future is to create it."_ – Peter Drucker
+## 🏅 Certifications & Recognition
 
-**Thanks for visiting my profile!** Let's build something amazing together and make the web a better place! 💻🔥🚀
+- **Google Developer Certification**: Web Development Fundamentals.
+- **FreeCodeCamp**: Responsive Web Design Certification.
+- **Meta Frontend Professional**: (In Progress) Advanced React and Architecture.
+- **Open Source Contributor**: Active contributor to various React-based ecosystems.
+
+---
+
+## 📈 Engineering Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryt19&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=333" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryt19&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=333" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryt19&theme=transparent&hide_border=true&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakNum=007ACC" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎯 Strategic Focus for 2024
+
+- 🏗️ **Architectural Patterns**: Deep diving into Micro-Frontends and Clean Architecture.
+- ⚡ **Web Performance**: Mastering Core Web Vitals and edge computing.
+- 🤖 **AI Integration**: Implementing LLM-driven features in frontend applications.
+- 📝 **Technical Leadership**: Contributing to the ecosystem through open-source and technical writing.
+
+---
+
+## 🌟 Value Proposition
+
+- **Technical Excellence**: Commitment to writing 95%+ clean, maintainable, and well-documented code.
+- **Strategic Thinking**: Aligning technical decisions with long-term business goals and user needs.
+- **Reliability**: Consistent 100% on-time delivery rate with a focus on quality assurance.
+- **Adaptive Learning**: Rapidly mastering new frameworks and paradigms to maintain a competitive edge.
+
+---
+
+## 💼 Engagement & Availability
+
+I am currently open to high-impact opportunities that challenge my technical skills and offer room for growth.
+
+- **Full-Time Roles**: Senior Frontend / Full-Stack Engineer positions.
+- **Strategic Consulting**: Architectural reviews, performance optimization, and UI/UX strategy.
+- **Collaborations**: Open-source initiatives and community-driven tech projects.
+- **Mentorship**: Empowering junior developers through code reviews and technical guidance.
+
+---
+
+<div align="center">
+  <p><i>"The goal is not just to write code, but to engineer solutions that empower users."</i></p>
+  <p><strong>Let's collaborate on your next vision.</strong></p>
+  <p>
+    <a href="https://github.com/Bryt19">GitHub</a> • 
+    <a href="https://linkedin.com/in/bright-akoto19">LinkedIn</a> • 
+    <a href="mailto:ac.bryt19@gmail.com">Email</a> •
+    <a href="https://brightakoto.dev">Portfolio</a>
+  </p>
+</div>
