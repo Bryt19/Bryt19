@@ -122,7 +122,7 @@ I am a results-oriented **Frontend Engineer** based in Ghana, specializing in bu
 
 ---
 
-## 🎯 Strategic Focus for 2024
+## 🎯 Strategic Focus for 2026
 
 - 🏗️ **Architectural Patterns**: Deep diving into Micro-Frontends and Clean Architecture.
 - ⚡ **Web Performance**: Mastering Core Web Vitals and edge computing.
@@ -158,6 +158,6 @@ I am currently open to high-impact opportunities that challenge my technical ski
     <a href="https://github.com/Bryt19">GitHub</a> • 
     <a href="https://linkedin.com/in/bright-akoto19">LinkedIn</a> • 
     <a href="mailto:ac.bryt19@gmail.com">Email</a> •
-    <a href="https://brightakoto.dev">Portfolio</a>
+    <a href="https://dhollarsign.vercel.app/">Portfolio</a>
   </p>
 </div>
